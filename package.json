@@ -1,0 +1,16 @@
+{
+  "name": "base.css",
+  "version": "0.0.1",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idmytro/base.css.git"
+  },
+  "author": "Dmytro Cisar <i@dmyt.ro> (http://dmyt.ro/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idmytro/base.css/issues"
+  },
+  "homepage": "https://github.com/idmytro/base.css#readme"
+}
