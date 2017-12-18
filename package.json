@@ -1,8 +1,7 @@
 {
   "name": "base.css",
   "version": "0.0.1",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/idmytro/base.css.git"
@@ -12,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/idmytro/base.css/issues"
   },
-  "homepage": "https://github.com/idmytro/base.css#readme"
+  "homepage": "https://github.com/idmytro/base.css#readme",
+  "dependencies": {
+    "autoprefixer": "7.2.3"
+  }
 }
