@@ -1,7 +1,9 @@
 {
   "name": "base.css",
   "version": "0.0.1",
-  "scripts": {},
+  "scripts": {
+    "build": "./node_modules/.bin/postcss src/base.css -o dist/base.css"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/idmytro/base.css.git"
