@@ -12,8 +12,11 @@ html {
     -ms-overflow-style: scrollbar;
 }
 
-*, *:before, *:after {
+* {
     font-weight: inherit;
+}
+
+*, *:before, *:after {
     background-position: 50%;
     background-repeat: no-repeat;
     border-color: transparent;
