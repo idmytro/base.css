@@ -23,3 +23,15 @@ html {
     border-width: 0;
     border-style: solid;
 }
+
+/*
+ * Change the alignment on media elements in all browers (opinionated).
+ */
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
