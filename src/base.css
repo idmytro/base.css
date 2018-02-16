@@ -26,6 +26,7 @@ html {
 
 /*
  * Change the alignment on media elements in all browers (opinionated).
+ * https://github.com/jonathantneal/sanitize.css
  */
 audio,
 canvas,
@@ -36,11 +37,10 @@ video {
     vertical-align: middle;
 }
 
-/**
+/*
  * Inherit styling in all browsers (opinionated).
  * https://github.com/jonathantneal/sanitize.css
  */
-
 button,
 input,
 select,
