@@ -12,10 +12,6 @@ html {
     -ms-overflow-style: scrollbar;
 }
 
-* {
-    font-weight: inherit;
-}
-
 *, *:before, *:after {
     background-position: 50%;
     background-repeat: no-repeat;
@@ -48,4 +44,13 @@ textarea {
 button,
 select {
 	text-transform: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: inherit;
 }
