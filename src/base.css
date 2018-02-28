@@ -1,3 +1,6 @@
+/* Document
+   ========================================================================== */
+
 html {
     font-size: 62.5%;
     font-family: sans-serif;
@@ -12,6 +15,9 @@ html {
     -ms-overflow-style: scrollbar;
 }
 
+/* Universal selector
+   ========================================================================== */
+
 *, *:before, *:after {
     background-position: 50%;
     background-repeat: no-repeat;
@@ -19,6 +25,9 @@ html {
     border-width: 0;
     border-style: solid;
 }
+
+/* Media elements
+   ========================================================================== */
 
 /*
  * Change the alignment on media elements in all browers (opinionated).
@@ -33,6 +42,9 @@ video {
     vertical-align: middle;
 }
 
+/* Form elements
+   ========================================================================== */
+
 button,
 input,
 select,
@@ -45,6 +57,9 @@ button,
 select {
 	text-transform: inherit;
 }
+
+/* Headings
+   ========================================================================== */
 
 h1,
 h2,
