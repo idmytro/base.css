@@ -17,6 +17,7 @@
   "dependencies": {
     "autoprefixer": "7.2.3",
     "postcss-cli": "4.1.1",
+    "postcss-import": "11.1.0",
     "postcss-remove-rules": "1.0.0",
     "postcss-unprefix": "2.1.1"
   }
