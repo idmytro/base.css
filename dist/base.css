@@ -15,6 +15,13 @@ html {
     -ms-overflow-style: scrollbar;
 }
 
+/* Body
+   ========================================================================== */
+
+body {
+    margin: 0;
+}
+
 /* Universal selector
    ========================================================================== */
 
@@ -50,6 +57,8 @@ button,
 input,
 select,
 textarea {
+    margin: 0;
+    padding: 0;
     color: inherit;
     font: inherit;
 }
